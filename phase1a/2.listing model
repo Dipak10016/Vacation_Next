@@ -1,0 +1,13 @@
+models folder made first listing create kela 
+1.require mongoose 
+2.mongoose.schema schema variable made takla 
+3.listingschema banvun material takla 
+4.set function shiklo new value set karayla 
+ani default pan 
+
+5.Listing made sarv takun sarv export kela 
+
+(tipo nit bagacha re baba )
+
+app.js made 
+/testListing banvla 

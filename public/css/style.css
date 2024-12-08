@@ -1,0 +1,96 @@
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif !important;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+   
+}
+
+
+/*footer*/
+
+.container{
+    flex: 1;
+}
+  
+
+
+/*navbar*/
+.navbar{
+    height: 5rem;
+    background: hsl(0, 0%, 98%);
+}
+.fa-compass{
+    color:#ff0000;
+    font-size:2rem;
+}
+
+.nav-link{
+    color:#000000 !important;
+}
+
+/*footer*/
+.container my-5{
+    width: 100% !important;
+}
+
+/*cards*/
+.listing-card{
+    border: none !important;
+    margin-bottom: 2rem;
+
+}
+.card-img-top{
+    border-radius: 1rem !important;
+    width: 100 !important;
+    object-fit: cover !important;
+
+}
+
+.card-body{
+    padding: 0 !important;
+}
+
+.card-text p{
+    font-weight: 400 !important;
+}
+
+.listing-link{
+    text-decoration: none;
+}
+
+/*card effecct*/
+
+.card-img-overlay{
+    opacity: 0;
+}
+.card-img-overlay:hover{
+    opacity: 0.2;
+    background-color: #ffffff;
+}
+
+/*new page */
+.add-btn{
+   background-color:#ff0000 !important;
+
+}
+/*edit page */
+.edit-btn{
+    background-color:#ff0000 !important;
+
+}
+
+/*show page*/
+.show-img{
+    height: 30vh;
+}
+.btns{
+    display: flex;
+}
+
+.show-card{
+    padding-left:0;
+    padding-right:0;
+}
+

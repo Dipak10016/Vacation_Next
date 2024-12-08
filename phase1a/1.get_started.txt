@@ -1,0 +1,18 @@
+airbn type chi web banvaychi ahe ,
+
+installation
+
+npm init -y
+npm i express
+npm i ejs
+npm i mongoose
+(mongoose start )
+mongosh,and show dbs
+
+
+express setup
+mongoose setup 
+server start(nodemon app.js)
+
+and check db and server (basic setup)
+(mongoose made ny disnar wanderlust )
