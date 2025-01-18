@@ -38,3 +38,21 @@ This project was developed by a single individual, showcasing the ability to des
 **Vacation Next** is an all-in-one solution for booking vacation rentals and managing property listings. It caters to the needs of both travelers and property owners, providing a smooth, hassle-free experience. With a focus on simplicity, security, and real-time updates, **Vacation Next** is the ideal platform for anyone looking to make vacation booking easier and more efficient.
 
 Start your next vacation journey with **Vacation Next**! 🌟
+
+
+1.Sign Up:
+![Screenshot 2025-01-18 045431](https://github.com/user-attachments/assets/06fb7935-a453-4bca-af2b-2c9f8ede2118)
+2.Login :
+![Screenshot 2025-01-18 045444](https://github.com/user-attachments/assets/872fb020-8aa9-41f8-9179-c2d65a8ae4f8)
+3.Home Page:
+![Screenshot 2025-01-18 045319](https://github.com/user-attachments/assets/ec23411d-8daf-432d-8576-75c409867fe8)
+4.Listing Details:
+![Screenshot 2025-01-18 045520](https://github.com/user-attachments/assets/648541cb-48f9-4832-b2e5-ed625a2611c5)
+5.Reviews:
+![Screenshot 2025-01-18 045744](https://github.com/user-attachments/assets/72b0f338-7d0e-4c64-8483-8dcc978b386a)
+6.Add new listings:
+![Screenshot 2025-01-18 045856](https://github.com/user-attachments/assets/d8374457-fd06-4ad9-9e7d-29f02e253717)
+7.Edit and Delete listing :
+![Screenshot 2025-01-18 050343](https://github.com/user-attachments/assets/47edf6f1-38db-4a0a-b27c-eea207a6c58e)
+![Screenshot 2025-01-18 050358](https://github.com/user-attachments/assets/65dd1fe3-3333-4dd5-88ab-479b59f8e7f1)
+
